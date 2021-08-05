@@ -1,10 +1,9 @@
 ### Hello! I'm Emerson Luiz 👋😃
 
 
-- 🔭 I'm looking for an opportunity to work with Java Development
+- 🔭 I'm looking for an opportunity to work with Full Stack
 - 🌱 I’m currently learning Java, Spring Boot and React Js
 - 📫 How to reach me: It's easier find by this email✍📩: emerson_egl@hotmail.com
-- 😄 Pronouns: he/his
 
 <div>
   <a href="https://github.com/emerge8">
