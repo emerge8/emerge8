@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm work with Full Stack development.
-- 🌱 I’m currently learning PHP, Java, Spring Boot and React Js
+- 🌱 PHP, Java, Spring Boot and React Js
 - 📫 How to reach me: It's easier find by this email✍📩: emerson_egl@hotmail.com
 
 <div>
